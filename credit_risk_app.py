@@ -179,7 +179,7 @@ _LANG = {
     'Bảng điều khiển Giám sát Rủi ro Tín dụng | Phân loại theo Thông tư 11/2021/TT-NHNN': 'Credit Risk Monitoring Dashboard | Classification per Circular 11/2021/TT-NHNN',
     'Giám sát Rủi ro Tín dụng': 'Credit Risk Monitoring',
     '⚖️ DỰ ÁN CÁ NHÂN (PORTFOLIO PROJECT): Công cụ Giám sát Rủi ro Tín dụng mã nguồn mở. Các phân tích chỉ mang tính chất tham khảo.': '⚖️ PORTFOLIO PROJECT: Open-source Credit Risk Monitoring tool. All analyses are for reference purposes only.',
-    '👉 **Nếu bạn muốn xem thêm dự án khác hãy [nhấp vào đây](https://portfolio-394g.vercel.app)**': '👉 **To view more projects, please [click here](https://portfolio-394g.vercel.app)**',
+    '👉 **Nếu bạn muốn xem thêm dự án khác hãy [nhấp vào đây](https://hoanhkhoa.vercel.app)**': '👉 **To view more projects, please [click here](https://hoanhkhoa.vercel.app)**',
 
     # Sidebar
     '📂 NGUỒN DỮ LIỆU': '📂 DATA SOURCE',
@@ -533,7 +533,7 @@ st.markdown(f"""
 """, unsafe_allow_html=True)
 
 st.warning(t("⚖️ DỰ ÁN CÁ NHÂN (PORTFOLIO PROJECT): Công cụ Giám sát Rủi ro Tín dụng mã nguồn mở. Các phân tích chỉ mang tính chất tham khảo."))
-st.markdown(t("👉 **Nếu bạn muốn xem thêm dự án khác hãy [nhấp vào đây](https://portfolio-394g.vercel.app)**"))
+st.markdown(t("👉 **Nếu bạn muốn xem thêm dự án khác hãy [nhấp vào đây](https://hoanhkhoa.vercel.app)**"))
 st.markdown("---")
 
 # ============================================================
